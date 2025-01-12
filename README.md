@@ -1,2 +1,1 @@
-# Car-Sales-Analysis-
-Developed and deployed a dynamic Car Sales Dashboard in Power BI, tracking KPIs such as YTD and MTD sales, average price, and cars sold, enhancing real-time decision-making.
+Developed and deployed a dynamic Car Sales Dashboard in Power BI, tracking KPIs such as YTD and MTD sales, average price, and cars sold, enhancing real-time decision-making. • Integrated 6 data visualizations, including sales trends, regional performance, and product breakdowns, to monitor and optimize sales strategies. • Improved data accessibility and decision support by creating interactive report, resulting in a 20% increase in actionable insights for management.
